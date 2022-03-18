@@ -1,6 +1,6 @@
-#include<stdio.h>
 #include<iostream>
 #include<stdlib.h>
+using namespace std;
 struct node 
 {
 	int data;
@@ -35,11 +35,12 @@ void display(struct node *p)
 }
 int main()
 {
-	append();
-	append();
-	append();
-	append();
-	append();
+	int t;
+	cin>>t;
+	while(t--)
+	{
+	   append( );
+	}
 	display(head);
 }
 	
