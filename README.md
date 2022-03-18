@@ -1,4 +1,4 @@
 # Data-structures-and-Algorithms
-Learning DSA intial stage
+Learning DSA initial stage
 (AKSHAY ARELLI)
 
